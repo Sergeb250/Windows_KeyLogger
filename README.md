@@ -24,7 +24,7 @@ This project is built strictly for **educational and security research purposes*
 
 ## 📷 Demo
 
-![keyloger]()
+![keyloger](https://github.com/Sergeb250/Windows_KeyLogger/blob/e82d3122af87a577cac28aeaa64a9375153e1363/Screenshot%202025-06-17%20193924.png)
 
 ---
 
