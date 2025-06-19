@@ -63,7 +63,11 @@ sudo x86_64-w64-mingw32-gcc -o keylogger.exe KelogerV2.c -lwebsockets -lwinhttp
 Run KeyloggerV3.exe on target machine (for authorized testing only)
 
 👤 Author
+
 Serge Benit
+
 📧 haksergeb@gmail.com
+
 📱 +250 791 822 315
+
 🌐 GitHub: Sergeb250
