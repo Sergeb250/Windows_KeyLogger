@@ -47,8 +47,7 @@ sudo python3 server.py
 Compile using:
 
 ```bash
-Copy
-Edit
+
 sudo x86_64-w64-mingw32-gcc -o keylogger.exe KelogerV2.c -lwebsockets -lwinhttp
 
 ```
