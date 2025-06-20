@@ -57,7 +57,7 @@ Compile using:
 
 ```bash
 
-sudo x86_64-w64-mingw32-gcc -o keylogger.exe KelogerV2.c -lwebsockets -lwinhttp
+sudo x86_64-w64-mingw32-gcc -o keylogger.exe KelogerV2.c -lwinhttp
 
 ```
 Run KeyloggerV3.exe on target machine (for authorized testing only)
